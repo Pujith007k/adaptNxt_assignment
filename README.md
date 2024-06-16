@@ -80,6 +80,10 @@ Functionality & Intruction of this Application:
     And we have previous searched List if we click on any one of the location it shows the information.
     This app is responsive and works well on various devices (desktop, tablet, mobile).
 
+    Technolgies used are HTML,CSS,JavaScript,React.js ,React-Icons,styled-Components
+
+    First we should built the applications according to mobile based approach and then slowly search Component,Details Component etc.
+
 
 
 
